@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<overlay id="helloDemoOverlay"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+         <vbox id="appcontent" flex="1">
+
+             <vbox id="hello-demo-container">
+                 <button label="Sign In" onclick="alert('Sign In First');" class="btn btn-large btn-success" />
+             </vbox>
+         </vbox>
+
+</overlay>
+

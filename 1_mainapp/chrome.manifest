@@ -1,0 +1,4 @@
+content hello-demo chrome/content/
+
+overlay chrome://xulapp/content/xulapp.xul chrome://hello-demo/content/overlay.xul
+

@@ -1,0 +1,4 @@
+content hello-addon-demo chrome/content/
+
+overlay chrome://hello-demo/content/overlay.xul chrome://hello-addon-demo/content/overlay.xul
+

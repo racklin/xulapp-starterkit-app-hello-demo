@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="chrome://hello-demo-bootstrap-style/content/xul-hack.css" type="text/css"?>
+<?xml-stylesheet href="chrome://hello-demo-bootstrap-style/content/css/bootstrap.css" type="text/css"?>
+<overlay id="bootstrapOverlay"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+</overlay>
+

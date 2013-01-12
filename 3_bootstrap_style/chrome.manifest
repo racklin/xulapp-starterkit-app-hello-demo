@@ -1,0 +1,4 @@
+content hello-demo-bootstrap-style chrome/content/
+
+overlay chrome://xulapp/content/xulapp.xul chrome://hello-demo-bootstrap-style/content/overlay.xul
+

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<overlay id="helloDemoOverlay"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+         <vbox id="appcontent" flex="1">
+
+             <vbox id="hello-demo-container" class="hero-unit">
+                 <label value="Hello World!!" class="lead" />
+                 <button label="sayHello" onclick="alert('Hello World'); XULApp.Notification.info('Hello','World');" class="btn btn-large btn-primary" />
+             </vbox>
+
+         </vbox>
+
+</overlay>
+
