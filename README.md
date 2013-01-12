@@ -1,6 +1,6 @@
 Hello Demo For XULApp StarterKit
 -----------------------------
-This is Hello Demo For XULApp StarterKit using add-ons mechanism.
+This is Hello Demo For [XULApp StarterKit](https://github.com/racklin/xulapp-starterkit) using add-ons mechanism.
 
 This demos show you how add-on can help you make your application more flexiable and more concise and update-able.
 
@@ -19,16 +19,16 @@ Hard Coding and modify Main App ?? Try it as the other add-on.
 3. Style It
 -----------------------------
 Finally, your users feel app ugly???
-Hard Coding style in Main App ?? Again, tri it as the other add-on.
+Hard Coding style in Main App ?? Again, Try it as the other add-on.
 
 
 Download Pre-build Binary
 -----------------------------
 Download Pre-build DEMO XPIs.
 
-[1. Main App XPI]()
-[2. Addon XPI]()
-[3. Style XPI]()
+1. [Main App XPI](https://github.com/racklin/xulapp-starterkit-app-hello-demo/raw/master/downloads/mainapp.xpi)
+2. [Addon XPI](https://github.com/racklin/xulapp-starterkit-app-hello-demo/raw/master/downloads/addon.xpi)
+3. [Style XPI](https://github.com/racklin/xulapp-starterkit-app-hello-demo/raw/master/downloads/bootstrap_style.xpi)
 
 
 License
